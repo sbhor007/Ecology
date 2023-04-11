@@ -4,7 +4,6 @@
 }
 body{
     background-color: #D6D6D6;
-    /* padding: 0 50px; */
 }
 a{
     text-decoration: none;
@@ -15,23 +14,6 @@ header{
     width: 100%;
     
 }
-/* .nav-bar{
-    padding: 0 100px;
-    height: 60px;
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    position: absolute;
-    top: 0px;
-    background-color: rgba(0, 0, 0, 0.0);
-    /* position: relative; */
-
-/* .nav-bar h2{
-    color: whitesmoke;
-    font-size: 35px;
-    /* padding-left: 100px;
-} */
 header .img{
     /* position: absolute;
     top: 0px; */
