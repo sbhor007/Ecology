@@ -4,6 +4,7 @@
 }
 body{
     background-color: #D6D6D6;
+    overflow-x: hidden;
 }
 a{
     text-decoration: none;
